@@ -1,0 +1,15 @@
+{
+  "name": "labo_nodejs-own_modules",
+  "version": "1.0.0",
+  "description": "Het doel van dit labo is aantonen dat je naast core modules en third party modules ook eigen node modules kan schrijven om mee te werken in jouw applicaties.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.0"
+  }
+}
